@@ -1,0 +1,3 @@
+command: who am i    //this will display which user is loggged in
+command: pwd   //print working directory
+command: cal   //this will display calendar
